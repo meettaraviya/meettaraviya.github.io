@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am an AI researcher, currently pursuing Masters in Computer Science from University of California, Los Angeles. I graduated with honors in May 2019 from IIT Bombay with Computer Science as my major and a GPA of 9.32/10.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My research interests lie in probabilistic inference and reinforcement learning. I had a publication titled "A Tighter Analysis of Randomised Policy Iteration" at UAI 2019, with Prof. Shivaram Kalyanakrishnan from IIT Bombay as my co-author. This paper analyzed the asymptotic runtime complexity of several variants of the policy iteration algorithm. I am currently involved with Prof. Guy Van den Broeck's StarAI Lab at UCLA, working towards approximate inference for the probabilistic programming language DIPPL.

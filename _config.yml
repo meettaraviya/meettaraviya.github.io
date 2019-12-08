@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Meet Taraviya personal webpage UCLA IIT Bombay reinforcment learning machine learning data scientist computer science 
 twitter_username: meet_taraviya
 github_username: meettaraviya
+linkedin_username: mtaraviya
 minimal_mistakes_skin: default
 search: true
 
@@ -58,17 +59,20 @@ plugins:
 author:
   name   : "Meet Taraviya"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Computer Science MS candidate @UCLA | AI Researcher | IIT Bombay CSE graduate"
+  bio    : "Computer Science MS candidate @UCLA / AI Researcher / IIT Bombay CSE graduate"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/meet_taraviya"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/meettaraviya"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/mtaraviya"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
@@ -81,6 +85,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/mtaraviya"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
