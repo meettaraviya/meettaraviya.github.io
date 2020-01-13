@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Meet Taraviya"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Computer Science MS candidate @UCLA / AI Researcher / IIT Bombay CSE graduate"
+  bio    : "MS Computer Science @UCLA / AI Researcher / IIT Bombay CSE graduate"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
